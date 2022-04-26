@@ -1,0 +1,50 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(101, 172, 85, 0.89);
+}
+li{
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+img{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
+.products{
+    flex-wrap: nowrap;
+    margin: 2%;
+    text-align: center;
+}
+
+.food{
+    margin: 20px;
+    height: 370px;
+    width: 220px;
+    border: 2px solid black;
+    display: inline-block;
+    padding: 20px;
+}
+.add{
+    background-color: rgb(113, 183, 113);
+    padding: 20px;
+    color: white;
+}
+.add:hover{
+    background-color: rgb(118, 170, 39);
+}
