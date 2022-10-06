@@ -12,9 +12,25 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;1,200;1,300;1,400&display=swap"
         rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <body>
+    <!-- responsive navbar -->
+    <nav>
+        <input type="checkbox" id="check">
+        <label for="check" class="checkbtn">
+            <i class="fa fa-bars"></i>
+        </label>
+        <label for="text" class="logo">Frutters</label>
+        <ul>
+            <li><a class="active" href="#">Home</a> </li>
+            <li><a href="#fruits">Fruits</a> </li>
+            <li><a href="#customers">Customers</a> </li>
+            <li><a href="#about">About</a> </li>
+
+        </ul>
+    </nav>
     <!-- farm background -->
     <section>
         <div class="farm">
@@ -26,7 +42,7 @@
 
     </section>
     <!-- top items -->
-    <section>
+    <section id="fruits">
         <div class="top-items">
             <h2>Top Selling Items</h2>
             <div class="items">
@@ -75,7 +91,7 @@
     </section>
     <!-- Testimonials -->
 
-    <section>
+    <section id="customers">
         <div class="testimonials">
             <h2>Testimonials</h2>
             <div class="users">
@@ -108,7 +124,7 @@
                 </div>
     </section>
     <!-- about us -->
-    <section>
+    <section id="about">
         <div class="about">
             <div class="company">
                 <h2>Frutters</h2><br>
