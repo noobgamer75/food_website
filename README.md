@@ -1,4 +1,8 @@
-# A simple web food page using html and css
+# A Simple Food Website using only HTML , CSS
+
+## Pictures
+
+![Screenshot 2022-10-06 172337](https://user-images.githubusercontent.com/96995340/194305964-9494b9c3-4682-45e0-be38-73777411a3e7.png)
 
 ## Website
 
@@ -6,3 +10,4 @@
 ## Authors
 
 - [Snehasis4321](https://www.github.com/snehasis4321)
+- [noobgamer75](https://www.github.com/noobgamer75)
