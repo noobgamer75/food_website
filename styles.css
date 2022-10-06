@@ -6,7 +6,7 @@
 
 .farm {
   background: linear-gradient(rgba(8, 127, 91, 0.9), rgba(8, 127, 91, 0.08)),
-    url("../farm.jpg");
+    url("farm.jpg");
   margin: auto;
   height: 500px;
   opacity: 0.9;
