@@ -104,12 +104,13 @@
   line-height: 1.4;
 }
 .user {
-  border-radius: 8px;
-  padding: 10px;
-  background-color: gray;
-  width: 600px;
+  border-radius: 36px;
+  padding: 12px;
+  background-color: #0080803d;
+  color: #004f4f;
+  width: 43vw;
   display: flex;
-  gap: 15px;
+  gap: 20px;
   align-items: center;
 }
 .user-pic {
